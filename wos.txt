@@ -1,0 +1,1631 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hamdan, Analisa
+   Wong, Kung-Teck
+   Salleh, Nor Syazwani Mat
+   Hanafi, Hafizul Fahri
+TI The Acceptance of M-Heutagogical Practice in Higher Education: A
+   Systematic Literature Review
+SO INTERNATIONAL JOURNAL OF EMERGING TECHNOLOGIES IN LEARNING
+VL 16
+IS 22
+BP 87
+EP 98
+DI 10.3991/ijet.v16i22.25625
+DT Review
+PD 2021
+PY 2021
+AB Mobile Heutagogy (M-Heutagogy) is the teaching practice that emphasizes
+   self-determined learning and student autonomy. Many teachers and
+   academicians have applied M-Heutagogy in their teaching and learning in
+   Higher Education Institutions (HEIs). The purpose of this study is to
+   synthesize an empirical literature review of the M-Heutagogical practice
+   among Higher Education students and its acceptance. The main objective
+   of this paper is to review the literature on M-Heutagogy practice and
+   its acceptance among Higher Education students. The researcher conducted
+   a systematic review of 60 articles for the period 2007 to 2020. The
+   findings indicate that M-Heutagogy has been applied in HEIs around the
+   world with the support of emergent technologies and mobile applications.
+   Unfortunately, only two M-Heutagogy acceptance studies have been done so
+   far. Future research suggested that the M-Heutagogy acceptance model
+   should be developed to be referred by researchers while doing an
+   acceptance study.
+RI wong, kung/C-3860-2013; BIN HANAFI, HAFIZUL/P-8788-2019; HANAFI, HAFIZUL FAHRI/
+OI HANAFI, HAFIZUL FAHRI/0000-0002-3205-0956
+ZB 0
+ZS 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+Z9 0
+C1 Sultan Idris Educ Univ, Fac Human Dev, Tanjong Malim 35900, Perak,
+   Malaysia
+C1 Sultan Idris Educ Univ, Fac Human Dev, Dept Educ Studies, Tanjong Malim
+   35900, Perak, Malaysia
+C1 Sultan Idris Educ Univ, Dept Art & Design, Fac Art Comp & Creat Ind,
+   Tanjong Malim 35900, Perak, Malaysia
+EI 1863-0383
+DA 2022-02-17
+UT WOS:000751558100007
+ER
+
+PT C
+AU Cochrane, Thomas
+   Antonczak, Laurent
+BE HernandezLeo, D
+   Ley, T
+   Klamma, R
+   Harrer, A
+TI A Mobile Learning Community of Practice: Facilitating Conceptual Shifts
+   in Pedagogy
+SO SCALING UP LEARNING FOR SUSTAINED IMPACT
+SE Lecture Notes in Computer Science
+VL 8095
+BP 430
+EP 435
+DT Proceedings Paper
+PD 2013
+PY 2013
+AB University lecturers are usually experts within a specific context
+   domain of knowledge, however they are seldom expert teachers or
+   educational technology wizards. Facilitating professional development
+   for lecturers to engage with innovation in teaching and learning
+   utilizing new technologies is no simple process. However, we have found
+   that structuring lecturer professional development around a sustained
+   community of practice can result in a journey of conceptual and
+   pedagogical transformation [1]. The increasing ubiquity of mobile
+   devices and social media provides a platform for enabling pedagogical
+   change. Thus we established a MOBile Community Of Practice (MOBCOP) of
+   lecturers interested in researching the potential of mobile social media
+   in education interested in exploring the concept of the
+   pedagogy-andragogy-heutagogy continuum [2], and how mobile learning can
+   be utilized as a catalyst [3] to move towards student-directed
+   heutagogy. We argue that the MOPCOP framework is potentially applicable
+   to a variety of higher education contexts.
+CT 8th European Conference on Technology Enhanced Learning (EC-TEL)
+CY SEP 17-21, 2013
+CL Paphos, CYPRUS
+RI Cochrane, Thomas/N-8405-2015; Antonczak, Dr Laurent/
+OI Cochrane, Thomas/0000-0002-0192-6118; Antonczak, Dr
+   Laurent/0000-0002-1154-3524
+Z8 0
+ZR 0
+ZB 0
+TC 5
+ZS 0
+ZA 0
+Z9 5
+C1 AUT Univ, Ctr Learning & Teaching, Auckland, New Zealand
+C1 AUT Univ, Sch Art & Design, Auckland, New Zealand
+SN 0302-9743
+BN 978-3-642-40814-4
+DA 2014-12-17
+UT WOS:000345099500034
+ER
+
+PT J
+AU Marie Blaschke, Lisa
+TI The dynamic mix of heutagogy and technology: Preparing learners for
+   lifelong learning
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+VL 52
+IS 4
+BP 1629
+EP 1645
+DI 10.1111/bjet.13105
+EA MAY 2021
+DT Article
+PD JUL 2021
+PY 2021
+AB With the swift pivot to online learning, teachers and students have been
+   forced to adopt a new way of teaching and learning, which has required
+   students to become more self-directed in their learning. In addition,
+   teachers are faced with the challenge of preparing students for the
+   workforce and lifelong learning. One emerging approach for addressing
+   both these challenges is that of heutagogy, or self-determined learning.
+   This paper discusses the rising demand for lifelong learning skills and
+   the role that heutagogy can play in supporting students in developing
+   self-directed and lifelong learning skills. Specifically, the paper
+   presents a case study of a higher education institution that has
+   introduced heutagogy, using interviews with programme
+   leaders/instructors to investigate how a college in Israel incorporated
+   heutagogy into their master's education programmes. Case study results
+   reveal that there are challenges in incorporating heutagogy (eg,
+   difficulty for students in adopting the approach), but once adopted,
+   students preferred learning in a self-determined way.
+   Practitioner notes
+   What is already known about this topic?
+   Lifelong learning skills are critical to student employability, and
+   there is a need for exploring new theories and approaches for developing
+   these skills.
+   The current pandemic has forced traditional learning into the online
+   space, requiring more self-directed learning skills in learners.
+   Heutagogy has been identified as a net-centric teaching and learning
+   theory for online learning.
+   What this paper adds
+   Positions heutagogy for use in traditional and online classroom settings
+   in order to develop learners' self-directed and lifelong learning
+   skills.
+   Explores the pedagogy-andragogy-heutagogy continuum and its use as an
+   instructional strategy.
+   Presents a case study of a higher education institution that has
+   implemented self-determined learning.
+   Implications for practice and/or policy
+   This study encourages further research into use of heutagogy for
+   developing self-directed and lifelong learning skills.
+   This study provides guidance for those who want to introduce
+   self-determined learning into classroom settings.
+Z8 0
+ZR 0
+ZB 0
+ZS 1
+ZA 0
+TC 36
+Z9 44
+C1 Learnlife, Home Hub, Barcelona, Spain
+C3 Learnlife
+SN 0007-1013
+EI 1467-8535
+DA 2021-05-26
+UT WOS:000651783700001
+ER
+
+PT J
+AU Lynch, Michael
+   Sage, Todd
+   Hitchcock, Laurel Iverson
+   Sage, Melanie
+TI A heutagogical approach for the assessment of Internet Communication
+   Technology (ICT) assignments in higher education
+SO INTERNATIONAL JOURNAL OF EDUCATIONAL TECHNOLOGY IN HIGHER EDUCATION
+VL 18
+IS 1
+AR 55
+DI 10.1186/s41239-021-00290-x
+DT Review
+PD OCT 18 2021
+PY 2021
+AB Pedagogical foundations exist for incorporating technology in
+   instruction; however, these foundations have not kept pace with
+   technology's evolution. Through the use of Information Communication
+   Technologies (ICTs), students now can share content directed at external
+   audiences, i.e., audiences other than the instructor. These audiences
+   are referred to as authentic audiences as they are public-facing and
+   exist outside of the classroom. The existing literature offers evidence
+   of student satisfaction with assignments directed at appealing to
+   external audiences, however, the literature provides no comprehensive
+   pedagogical rationale for assignments directed at authentic audiences
+   wherein the goals are self-determined. The authors discuss the theory of
+   heutagogy, the study of self-determined learning, as an approach for
+   assessing assignments that utilize ICTs and are directed at authentic
+   audiences. Finally, the authors offer an approach for the assessment of
+   these assignments, including a rubric.
+RI Hitchcock, Laurel Iverson/; Sage, Melanie/L-6740-2018; Sage, Todd/; Lynch, Michael R./; Hitchcock, Laurel/AAI-1129-2019
+OI Hitchcock, Laurel Iverson/0000-0002-3062-9622; Sage,
+   Todd/0000-0001-9879-5080; Lynch, Michael R./0000-0003-0332-0563; 
+ZS 0
+Z8 0
+TC 10
+ZA 0
+ZB 0
+ZR 0
+Z9 11
+C1 SUNY Buffalo, Sch Social Work, 685 Baldy Hall, Buffalo, NY 14260 USA
+C1 Univ Alabama Birmingham, Dept Social Work, 3154 Univ Hall,1402 10th Ave
+   South, Birmingham, AL 35294 USA
+SN 2365-9440
+DA 2021-10-27
+UT WOS:000707924100001
+PM 34778541
+ER
+
+PT J
+AU Blaschke, Lisa Marie
+   Marin, Victoria, I
+TI Applications of Heutagogy in the Educational Use of E-Portfolios
+SO RED-REVISTA DE EDUCACION A DISTANCIA
+VL 20
+IS 64
+AR 6
+DI 10.6018/red.407831
+DT Article
+PD SEP 13 2020
+PY 2020
+AB Preparing students for the complex and changing nature of the workforce
+   has become an overriding objective within higher education. New
+   pedagogies, which incorporate both informal and formal learning and
+   support personalization of learning, are central to this objective.
+   Educators are required to reassess the use of traditional pedagogies, as
+   they attempt to foster development of skills and competencies for
+   lifelong learning. Heutagogy, or self-determined learning, is a learning
+   theory that addresses this need, giving students agency in determining
+   what and how they learn. The theory is based in the principles of
+   learner agency, capability and self-efficacy, reflection and
+   metacognition, and non-linear learning, and when used with technology
+   can be a powerful instructional approach for building students'
+   self-directed and lifelong learning skills. A compelling example of this
+   is the e-portfolio. As a platform and assessment tool, the e-portfolio
+   spans the spectrum of lifelong learning, as well as encompasses both
+   formal and informal learning of the individual learner and addresses
+   critical aspects of learning and reflection, showcasing the learner's
+   acquired skills and competencies. Based on successful cases in the
+   literature, this article discusses the principles of heutagogy, the
+   pedagogy-andragogy-heutagogy (PAH continuum) and its application in
+   online learning environments, and the use of the eportfolio in further
+   cultivating and advancing self-determined learning. The article also
+   offers recommendations for future practice and theory.
+RI Blaschke, Lisa/AAX-9988-2020; Marín, Victoria/H-9105-2015; Blaschke, Lisa Marie/; Marin, Victoria I./H-9105-2015
+OI Blaschke, Lisa Marie/0000-0002-1767-623X; Marin, Victoria
+   I./0000-0002-4673-6190
+Z8 0
+TC 16
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z9 17
+C1 Carl von Ossietzky Univ Oldenburg, Ctr Lifelong Learning, Oldenburg,
+   Germany
+C1 Carl von Ossietzky Univ Oldenburg, Ctr Open Educ Res, Oldenburg, Germany
+SN 1578-7680
+DA 2021-02-08
+UT WOS:000608193900002
+ER
+
+PT J
+AU Zakaria, A. F.
+   Mohamed, M.
+   Mohamad, M. M.
+TI Efforts to Improve Knowledge and Skills by Adopting Heutagogical
+   Approaches among Technical and Vocational' Educators
+SO JOURNAL OF TECHNICAL EDUCATION AND TRAINING
+VL 13
+IS 3
+SI SI
+BP 172
+EP 179
+DI 10.30880/jtet.2021.13.03.017
+DT Article
+PD 2021
+PY 2021
+AB Educators play the most crucial role in the education system. They are
+   the cornerstone on which the stability and growth of the education
+   system, including technical and vocational education. In the current
+   situation, the teaching-learning process shall be decided based on the
+   requirements of the learner at every level. With fast changing
+   technology and education norm, educators faced many challenges and took
+   various way in upgrading and reskilling themselves towards providing
+   practical teaching session. Therefore, heutagogical approaches are
+   appropriate for improving skill and knowledge among them. This study is
+   aimed to determine the efforts level of educator in 13 different
+   Vocational colleges in Johor. A total of 141 educators participated in
+   the survey questionnaire that measures their efforts toward six
+   heutagogical elements in teaching and learning. The finding shows that
+   majority of the educators shows the high level of efforts toward
+   improving their skills and knowledge. The educator's perception on the
+   implementation of heutagogy in teaching and learning process benefit
+   tremendously in designing practical and sustainable professional
+   development course for educators. Also contributes to heutagogy model in
+   technical and vocational education settings.
+RI Mohamed, Mimi Nahariah Azwani/J-8471-2017; Zakaria, Anies Faziehan/; Mohamad, Mimi/C-2390-2013; Zakaria, Anies/AAT-4396-2020
+OI Zakaria, Anies Faziehan/0000-0002-6215-422X; 
+Z8 0
+ZB 0
+TC 0
+ZR 0
+ZA 0
+ZS 0
+Z9 0
+C1 Univ Tun Hussein Onn Malaysia, Fac Tech & Vocat Educ, Johor Baharu
+   86400, Malaysia
+SN 2229-8932
+EI 2600-7932
+DA 2021-11-04
+UT WOS:000704983800017
+ER
+
+PT B
+AU Daniel, Nicholas B.
+Z2  
+TI Heutagogy and Lifelong Learning A Question of Self-Determined Practices
+   in Post-Secondary Education
+DT Dissertation/Thesis
+PD Jan 01 2021
+PY 2021
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+C1 Mid-America Baptist Theological Seminary, Education, Tennessee, United
+   States
+C3 Mid-America Baptist Theological Seminary
+BN 9798544207955
+UT PQDT:64648213
+ER
+
+PT J
+AU Lock, Jennifer
+   Lakhal, Sawsen
+   Cleveland-Innes, Martha
+   Arancibia, Paula
+   Dell, Debra
+   De Silva, Noeleen
+TI Creating technology-enabled lifelong learning: A heutagogical approach
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+VL 52
+IS 4
+BP 1646
+EP 1662
+DI 10.1111/bjet.13122
+EA MAY 2021
+DT Article
+PD JUL 2021
+PY 2021
+AB Can a new instructional approach influence lifelong learning and the
+   development of competent lifelong learners? Blended and online learning
+   provides a platform for learning that introduces technological
+   affordance to enable learning. We seek to find an intersection between
+   blended and online learning and lifelong learning through an
+   instructional approach that encourages learners towards management of
+   their own learning. This opens the door to becoming an autonomous,
+   capable, self-directed lifelong learner. In this context, heutagogy
+   offers an instructional approach that may connect blended and online
+   learning settings with the development of lifelong learning competence.
+   After conducting a systematic literature review using the terms
+   heutagogy, blended and online learning, and lifelong learning,
+   literature that considers how to inspire and build human agency
+   capabilities over the lifespan was chosen for Delphi method expert
+   review. Using this methodology, we explore the possibility that online
+   and blended higher education will contribute, where heutagogical
+   experiences exist, to technology-enabled lifelong learning. Results
+   corroborate the idea that heutagogy and lifelong learning are
+   intertwined by some common principles and that these are applicable to
+   both blended and online learning settings and lifelong learning.
+   Practitioner notes
+   What is already known about this topic
+   Recent, and what is often continuous, change is impacting all we do,
+   including the design and delivery of education.
+   This change requires new instructional models that improve immediate
+   learning outcomes and prepares learners for learning across the
+   lifespan.
+   The use of instructional processes labeled heutagogy include the
+   opportunity for, and application of, activities of learning
+   self-direction, -determination, and -regulation, which can be helpful,
+   even essential, for lifelong learning.
+   What this paper adds
+   This paper identifies an informed perspective, from data, that
+   heutagogical design must be consciously implemented and supported for
+   online and blended learning by instructional designers, instructors, and
+   institutional leadership and infrastructure.
+   It is reasonable to suggest that online and blended learning could
+   contribute, where heutagogical learning opportunities exist, to
+   technology-enabled lifelong learning.
+   Instructional practices that include choice, flexible or negotiated
+   assessment, facilitation of reflection, learner confidence development,
+   and involvement of the learner in designing their learning can be
+   considered heutagogical.
+   Implications for practice and/or policy
+   Develop policy in support of a change in instructional practice that
+   embraces a heutagogical approach in the design of courses to foster
+   greater self-directed and lifelong learning.
+   Educational development to support instructors to understand heutagogy
+   and how it can be applied in the design and delivery of blended and
+   online learning to foster technology enabled lifelong learning.
+   With the implementation of a heutagogical approach, student orientation
+   along with purposeful scaffolding needs to be implemented to support
+   students as they become more autonomous learners in technology-enabled
+   settings.
+OI Cleveland-Innes, Martha/0000-0002-9486-2554
+Z8 0
+ZB 0
+ZA 0
+TC 26
+ZR 0
+ZS 1
+Z9 33
+C1 Univ Calgary, Calgary, AB T2N 1N4, Canada
+C1 Univ Sherbooke, Sherbooke, PQ, Canada
+C1 Athabasca Univ, Athabasca, AB, Canada
+SN 0007-1013
+EI 1467-8535
+DA 2021-06-04
+UT WOS:000652237200001
+ER
+
+PT J
+AU Stoten, David William
+TI Positioning through epistemic cognition in higher education:
+   conceptualising the ways in which academics in a business school view
+   heutagogy
+SO HIGHER EDUCATION
+VL 87
+IS 4
+BP 991
+EP 1007
+DI 10.1007/s10734-023-01048-2
+EA MAY 2023
+DT Article
+PD APR 2024
+PY 2024
+AB Teaching and learning in higher education is informed by a multitude of
+   conditioning factors, not least the values systems and outlook of
+   academics. Understanding the epistemological positioning taken by
+   academics in relation to teaching and learning is therefore important if
+   we are to make judgments about how we educate now, and could do so in
+   the future. Developments in educational theory and digital technology
+   have opened-up new possibilities for the ways in which students learn,
+   and to a degree this has been accelerated by the responses from
+   universities to the COVID-19 pandemic. How then should we conceive the
+   future? Heutagogy is one of a number of theoretical approaches that has
+   attracted interest from those who wish to see greater student control
+   over the learning journey- but how widespread is this view amongst
+   academics? This paper reports on a qualitative study in which 12
+   academics in an English Business School were asked to describe their
+   views on teaching and learning, which we can encapsulate through the
+   concept of epistemic cognition. The findings infer that there is little
+   epistemological underpinning for heutagogy and that if academics are
+   going to innovate, then additional resource and professional development
+   should be put in place to support epistemic reflexivity, and a shift in
+   their epistemological positioning. The paper conceptualises academics'
+   positioning through a typology of epistemic views.
+ZS 0
+TC 3
+ZR 0
+ZB 0
+ZA 0
+Z8 0
+Z9 3
+C1 Northumbria Univ, Newcastle Business Sch, Newcastle Upon Tyne, England
+SN 0018-1560
+EI 1573-174X
+DA 2023-05-31
+UT WOS:000986420900001
+PM 37362751
+ER
+
+PT B
+AU Hensley, Jessica Lynn
+Z2  
+TI Understanding Student Perceptions of Heutagogy as a Support for Success
+   in Online Doctoral Education
+DT Dissertation/Thesis
+PD Jan 01 2025
+PY 2025
+TC 0
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+ZB 0
+Z9 0
+C1 National University, Sanford College of Education and School of Arts,
+   Letters and Sciences, California, United States
+C3 National University
+BN 9798286439171
+UT PQDT:124020819
+ER
+
+PT C
+AU Mac Callum, Kathryn
+   Jeffery, Lynn
+   Kinshuk
+BE Brown, TH
+   VanDerMerwe, HJ
+TI Heutagogial Approaches in the Understanding and Modelling the Adoption
+   of Mobile Learning
+SO MOBILE LEARNING VOYAGE - FROM SMALL RIPPLES TO MASSIVE OPEN WATERS
+SE Communications in Computer and Information Science
+VL 560
+BP 330
+EP 342
+DI 10.1007/978-3-319-25684-9_24
+DT Proceedings Paper
+PD 2015
+PY 2015
+AB The purpose of this paper is to investigate how the factors that
+   influence a learner's ability to be self-directed (Andragogy) and
+   self-determined (Heutagogy) may influence the understanding and
+   modelling of mobile learning adoption. Heutagogy is seen as a
+   progression along a continuum of pedagogical approaches from pedagogy to
+   andragogy to heutagogy, where learners need to progress from each with
+   the aim of becoming highly autonomous and mature learners. Due to the
+   nature of mobile technology, learning can be orientated towards the
+   learner to support their needs. Learners are now better equipped to
+   manage and control their own learning as learning can take place
+   anywhere and anytime. However not all students possess the required
+   traits, such as self-management, self-control and desire for learning,
+   that signal that are ready for learning that is no longer teacher-lead
+   and directed.
+   The study examines the results of a survey (n = 446 students) assessing
+   how the traits that indicate a readiness for learning that is
+   self-directed and self-determined, can impact on students' perceptions
+   and adoption of mobile learning. This model was tested using structural
+   equation modelling. The findings showed that there was a strong
+   association with the factors of self-management, self-control and desire
+   for learning on the positive perception of mobile learning and adoption.
+   The study reinforces the need for scaffolding and developing learners so
+   that they are comfortable to succeed in an environment that is
+   self-directed and determined.
+CT 14th Annual World Conference on Mobile and Contextual Learning (mLearn)
+CY OCT 17-24, 2015
+CL Venice, ITALY
+SP Int Assoc Mobile Learning
+RI Kinshuk, Dr/D-3764-2014; MacCallum, Kathryn/; MacCallum, Kathryn/ABB-3506-2021
+OI MacCallum, Kathryn/0000-0003-3844-7628; 
+ZR 0
+ZS 0
+ZB 0
+ZA 0
+TC 2
+Z8 0
+Z9 2
+C1 Eastern Inst Technol, Sch Comp, Hawkes Bay Mail Ctr, Private Bag 1201,
+   Napier 4142, New Zealand
+C1 Massey Univ, Sch Management, Palmerston North 4442, New Zealand
+C1 Athabasca Univ, Fac Sci & Technol, Athabasca, AB T9S 3A3, Canada
+C3 Eastern Inst Technol
+SN 1865-0929
+EI 1865-0937
+BN 978-3-319-25684-9; 978-3-319-25683-2
+DA 2016-02-24
+UT WOS:000369659200024
+ER
+
+PT J
+AU Cochrane, Thomas
+   Narayan, Vickel
+TI Redesigning professional development: reconceptualising teaching using
+   social learning technologies
+SO RESEARCH IN LEARNING TECHNOLOGY
+VL 21
+IS 1
+AR 19226
+DI 10.3402/rlt.v21i0.19226
+DT Article
+PD 2013
+PY 2013
+AB This article evaluates the use of a community of practice model for
+   redesigning a lecturer professional development course investigating the
+   impact of mobile web 2.0 technologies in higher education. The results
+   show a significant change in lecturer conceptions of pedagogy were
+   achieved by this approach. Drawing on our experience of two iterations
+   of implementing the new course model we propose a mobile social media
+   framework for enabling pedagogical transformation as part of lecturer
+   professional development.
+RI Narayan, Vickel/I-8727-2019; Cochrane, Thomas/N-8405-2015; Narayan, Vickel/N-9431-2015
+OI Cochrane, Thomas/0000-0002-0192-6118; Narayan,
+   Vickel/0000-0002-6833-706X
+ZA 0
+ZR 0
+Z8 0
+TC 15
+ZS 0
+ZB 0
+Z9 26
+C1 AUT Univ, Ctr Learning & Teaching, Auckland, New Zealand
+C1 Unitec, Te Puna Ako, Auckland, New Zealand
+SN 2156-7069
+EI 2156-7077
+DA 2013-01-01
+UT WOS:000210146900001
+ER
+
+PT J
+AU Cherusheva, Galyna
+   Nowak, Barbara
+   Maksymenko, Anatolii
+   Kabysh, Maryna
+   Vakerych, Mykhailo
+TI Higher pedagogical education in the European Union: Innovative
+   technologies Educaci?n pedag?gica superior en la Uni?n Europea:
+   Tecnolog?as innovadoras
+SO EDUWEB-REVISTA DE TECNOLOGIA DE INFORMACION Y COMUNICACION EN EDUCACION
+VL 17
+IS 2
+BP 257
+EP 266
+DI 10.46502/issn.1856-7576/2023.17.02.22
+DT Article
+PD APR-JUN 2023
+PY 2023
+AB Higher teacher education in European countries has undergone a
+   remarkable transformation due to the constant convergence of educational
+   systems and institutions of higher education in Western Europe. The aim
+   of the article is to analyze the experience of using innovative
+   technologies in higher pedagogical education in the European Union
+   countries. Methods of analysis and synthesis, prediction, comparison,
+   and abstraction were used to realize this main task. The results traced
+   the main innovative technologies popular in European pedagogical
+   universities. The effectiveness of interactive learning, modular
+   education system, technology of level differentiation, methods of
+   learning through research (use of the project method), E-learning, and
+   deep use of digital platforms, which contributes to the formation of
+   theoretical and practical knowledge, development of critical thinking
+   and creative potential in higher education applicants is demonstrated.
+   It is pointed out that e-learning based on university platforms allows
+   users to actively participate in various international educational
+   projects, creatively interact with other users and even create new
+   content. Several European universities (from France, Germany, Austria,
+   and other countries) have merged their e-learning platforms into one
+   professional global service called web2.0. Important directions for the
+   further development of teacher education will be heutagogy, peeragogy,
+   or paragogy and cybergogy. The conclusions stressed the importance of
+   further integration of digital innovative methods to teaching
+   pedagogical disciplines.
+TC 2
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+Z9 2
+C1 Natl Acad Stat Accounting & Auditing, Fac Finance & Econ, Dept
+   Philosophy, Law & Social & Humanitarian Disciplines, Kiev, Ukraine
+C1 Natl Acad Stat Accounting & Auditing, Fac Finance & Econ, Career
+   Guidance Dept, Kiev, Ukraine
+C1 Comenius Univ, Fac Educ, Dept Social Work, Bratislava, Slovakia
+C1 Kyiv Natl Linguist Univ, Dept Int Relat, Kiev, Ukraine
+C1 Natl Acad Pedag Sci Ukraine, Inst Vocat Educ, Kiev, Ukraine
+C1 Uzhgorod Natl Univ, Fac Biol, Dept Genet Physiol Plants & Microbiol,
+   Uzhgorod, Ukraine
+C3 Natl Acad Stat Accounting & Auditing
+C3 Natl Acad Stat Accounting & Auditing
+SN 1856-7576
+DA 2023-06-09
+UT WOS:000975454900023
+ER
+
+PT J
+AU Smith, John
+TI Yet another acronym - Technology-enhanced Academic Language Support
+   (TALS)
+SO JOURNAL OF UNIVERSITY TEACHING AND LEARNING PRACTICE
+VL 16
+IS 4
+SI SI
+AR 2
+DT Article
+PD 2019
+PY 2019
+AB Since the earliest adoption of educational technologies, teachers and
+   researchers have been exploring its efficacy on language learning and
+   development. The speed with which these technologies are now
+   infiltrating academic student support will continue to increase, and so
+   the need for good guidance in this space will likewise increase.
+   Currently in academic language and learning support, however, the
+   digital space while prevalent and expanding is both poorly defined and
+   the literature widely dispersed. It is argued here that a single term of
+   reference, such as TALS, could provide a centralised meeting point where
+   research and experiences from the field can be more readily and
+   conveniently shared.
+ZR 0
+ZB 0
+TC 0
+ZS 0
+ZA 0
+Z8 0
+Z9 0
+C1 Griffith Univ, Nathan, Qld, Australia
+SN 1449-9789
+DA 2019-12-30
+UT WOS:000502562400002
+ER
+
+PT C
+AU Jennings, David
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI ADAPTIVE APPROACHES: OPEN EDUCATIONAL RESOURCES (OER) AND THEIR IMPACT
+   ON HIGHER EDUCATIONAL PRACTITIONERS
+SO 10TH INTERNATIONAL CONFERENCE OF EDUCATION, RESEARCH AND INNOVATION
+   (ICERI2017)
+SE ICERI Proceedings
+BP 4984
+EP 4989
+DT Proceedings Paper
+PD 2017
+PY 2017
+AB The research is undertaken as a narrative inquiry, gathering the
+   phenomenological interpretations of key stakeholders, and deciphering
+   the sociological impacts that have shaped our understanding and
+   engagement with the deployment of OERs from the perspective of academic
+   practice.
+   A number of studies have explored the opportunities, issues and barriers
+   to the use of OERs (Online Learning Task Force, 2011, McGill et al,
+   2013, Mtebe and Raisamo, 2014). In addition Massive Online Open Courses
+   (MOOC) and their potential as disruptive technologies (Yuan and Powell,
+   2013) within the education sector, enable one to explore additional
+   dilemmas such as sustainability, quality and commercial viability.
+   Each identifies an on-going paradox for academic faculty surrounded by
+   these socially oriented web technologies: individuals (and institutions)
+   must engage, but may not have the time, finance, or a rewards system to
+   merit such commitment.
+   The increasing demands for education globally enable the proposed study
+   to offer a valuable insight on current and future practice.
+CT 10th Annual International Conference of Education, Research and
+   Innovation (ICERI)
+CY NOV 16-18, 2017
+CL Seville, SPAIN
+RI Jennings, David/AAY-4467-2021
+OI Jennings, David/0000-0002-7571-8813
+TC 0
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+ZA 0
+Z9 0
+C1 Univ Coll Dublin, Dublin, Ireland
+SN 2340-1095
+BN 978-84-697-6957-7
+DA 2018-05-10
+UT WOS:000429975305015
+ER
+
+PT J
+AU Saleem, Nudrat
+   Mufti, Tabish
+   Sohail, Shahab Saquib
+   Madsen, Dag Oivind
+TI ChatGPT as an innovative heutagogical tool in medical education
+SO COGENT EDUCATION
+VL 11
+IS 1
+AR 2332850
+DI 10.1080/2331186X.2024.2332850
+DT Article
+PD DEC 31 2024
+PY 2024
+AB In this study, we aim to investigate the potential advantages of
+   integrating the new generative artificial intelligence (AI) technology,
+   ChatGPT, into higher education, specifically within the field of medical
+   education. The focus is on exploring ChatGPT's applications in
+   personalized learning, assessment, and content creation while also
+   addressing the management of its limitations and ethical considerations.
+   Furthermore, we explore the use of ChatGPT as a medical instructor in a
+   medical classroom context. We seek to elucidate responses to a preset of
+   questions in two categories separated based on targeted remediation,
+   pedagogical knowledge, teacher ethics, query detail, practicality, and
+   communication pattern. These responses are analyzed based on two rubrics
+   designed on the basics of pedagogical prerequisites, and findings are
+   reached with a thorough comparative analysis. We hope that this research
+   will improve the effective implementation of ChatGPT as a tool for
+   enhancing learning and skill development while maintaining ethical
+   awareness for medical professionals.
+RI Sohail, Shahab Saquib/; sohail, shahab/O-3263-2019; Madsen, Dag Oivind/I-1587-2016; Madsen, Dag Øivind/I-1587-2016
+OI Sohail, Shahab Saquib/0000-0002-5944-7371; Madsen, Dag
+   Oivind/0000-0001-8735-3332; 
+TC 10
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+ZB 0
+Z9 10
+C1 Fac Educ, Dept Educ Studies, Jamia Millia Islamia, New Delhi, India
+C1 Dept Comp Sci & Engn, SEST, Jamia Hamdard, New Delhi, India
+C1 VIT Bhopal Univ, Sch Comp Sci & Engn, Bhopal, India
+C1 Univ South Eastern Norway, USN Sch Business, Bredalsveien 14, N-3511
+   Honefoss, Norway
+C3 Fac Educ
+SN 2331-186X
+DA 2024-04-05
+UT WOS:001193862900001
+ER
+
+PT J
+AU Crawford, Joseph
+   Vallis, Carmen
+   Yang, Jianhua
+   Fitzgerald, Rachel
+   O'Dea, Christine
+TI Editorial: Artifiicial Intelligence is Awesome, but Good Teaching Should
+   Always Come First.
+SO JOURNAL OF UNIVERSITY TEACHING AND LEARNING PRACTICE
+VL 20
+IS 7
+AR 01
+DI 10.53761/1.20.7.01
+DT Article
+PD 2023
+PY 2023
+AB The explosion of generative artificial intelligence into the mainstream
+   of society some twelve months ago has seriously challenged learning and
+   teaching practice. Since then, AI companies such as OpenAI are
+   constantly improving their language models and releasing new features to
+   make them more capable and useful. So, given there have been many
+   disruptors in the past and emerging disruptions in the present, what can
+   we learn in this situation, where Generative AI stands poised to
+   challenge the purpose and relevance of assessment models? From our
+   examples, disruptive technologies only have a major impact when they
+   positively transform practice and are informed by pedagogic models and
+   learning theory. GenAI as a disruptor is only likely to have this
+   positive impact when it informs quality learning and teaching practice.
+   We should be focused on the opportunities that GenAI now presents to
+   higher education. It is argued here and elsewhere that the relative
+   weakness of GenAI is that it creates poor quality output, delivering
+   uninformed, incorrect, biased and bland responses. In itself, this
+   offers opportunities for 'teachable moments' (Newell et al, 2023) and
+   gives us room to support students with their capabilities in an AI
+   informed world. Historically, these opportunities enable higher
+   education to grow and progress. What we have learned so far would
+   appears to be that for research to contribute to the literature, they
+   needed to be informed by it. Likewise, need to ensure that pedagogy,
+   andragogy, and heutagogy come first. We also need to remember that
+   people processes happen, artificial intelligence happens around them,
+   and that artificial intelligence comes after human intelligence.
+   Practitioner Notes1. For AI research to contribute to the literature, it
+   needs to be informed by it.2. Scholars need to ensure that pedagogy,
+   andragogy, and heutagogy come before artificial intelligence.3. People
+   processes happen, artificial intelligence happens around them, and that
+   artificial intelligence comes after human intelligence. 4. Artificial
+   Intelligence comes after human intelligence
+RI Fitzgerald, Rachel/AAW-9567-2021; Crawford, Joseph/J-6397-2019; Crawford, Joseph/
+OI Crawford, Joseph/0000-0002-2191-6216
+ZA 0
+ZB 0
+Z8 0
+TC 5
+ZR 0
+ZS 0
+Z9 5
+C1 Univ Tasmania, Hobart, Australia
+C1 Univ Sydney, Sydney, Australia
+C1 Univ Warwick, Warwick, England
+C1 Univ Queensland, Brisbane, Australia
+C1 Univ Huddersfield, Huddersfield, England
+SN 1449-9789
+DA 2023-12-16
+UT WOS:001103781300009
+ER
+
+PT C
+AU Bunt, Lance R.
+BE Fotaris, P
+TI Heutagogy as Narrative: Role-Playing Learning Design for Computer
+   Science Teaching and Learning
+SO PROCEEDINGS OF THE 15TH EUROPEAN CONFERENCE ON GAME BASED LEARNING
+   (ECGBL 2021)
+SE Proceedings of the European Conference on Games-Based Learning
+BP 131
+EP 140
+DI 10.34190/GBL.21.006
+DT Proceedings Paper
+PD 2021
+PY 2021
+AB This theoretical article presents the foundational aspects of a
+   conceptual, role-playing learning design intended for use in Higher
+   Education Schools of computer science and information technology. The
+   learning design intends to improve learning ecosystems, bolster student
+   engagement and afford learners and educators the benefit of choice and
+   amplified autonomy. Second-year students at North-West University (South
+   Africa) will be the first cohort to experience the application of the
+   newly-designed basic literacy framework which informs the broader
+   role-playing learning design exhibited here. The Web literacy framework
+   put forward by Mozilla in 2018 to teach critical online proficiencies
+   serves as the inspiration for the framework; informing the overall
+   role-playing learning design at various levels. Depth of Knowledge
+   indicators are mapped onto the Mozilla framework to deepen its
+   applicability to tertiary education contexts. Elements of gamification,
+   furthermore, are imbedded into the learning design to engage students
+   with the self-directed learning aspects of the concept itself, i.e. to
+   participate in authentic learning experiences as put forward by
+   heutagogical instructional strategies. The role-playing learning design
+   makes three roles available to learners, namely: Business Analyst
+   (Read), Web Developer (Write) and Customer Service Representative
+   (Engage). These roles are tied directly to the three basic literacy
+   skill areas iterated upon in the basic literacy framework discussed
+   here. Moreover, this article represents part one in a series of articles
+   exploring the efficacy and potential of this approach to better serve
+   our student cohorts and expand educational offerings. Proceeding papers
+CT 15th European Conference on Game Based Learning (ECGBL)
+CY SEP 23-24, 2021
+CL Univ Brighton, ELECTR NETWORK
+HO Univ Brighton
+RI Bunt, Lance/L-4462-2018
+OI Bunt, Lance/0000-0003-0455-8493
+ZA 0
+ZB 0
+TC 1
+ZR 0
+Z8 0
+ZS 0
+Z9 1
+C1 North West Univ, Vanderbijlpark, South Africa
+SN 2049-0992
+EI 2049-100X
+BN 978-1-914587-13-9
+DA 2022-03-17
+UT WOS:000758457500015
+ER
+
+PT J
+AU Nurlaela, Nurlaela
+   Irfan, Andi Muhammad
+   Rahman, Muhammad Haristo
+   Putra, Kurnia Prima
+   Mahmud, Amiruddin
+   Setialaksana, Wirawan
+TI Understanding AR/VR Adoption through heutagogy and cybergogy: Insights
+   from the UTAUT2 model in vocational education
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+DI 10.1007/s10639-025-13465-0
+EA MAR 2025
+DT Article; Early Access
+PY 2025
+AB Integrating advanced technologies like Virtual Reality (VR) and
+   Augmented Reality (AR) in educational settings can significantly enhance
+   learning, especially in vocational education, where practical
+   application is crucial. However, understanding the factors influencing
+   student acceptance of these technologies remains challenging. This study
+   examines how Heutagogical and Cybergogical Behaviors affect vocational
+   high school students' intentions to use AR and VR in classrooms, with
+   Virtual Experience as a mediator. By extending the UTAUT2 model, the
+   research offers insights into technology adoption in vocational
+   education. Conducted in July 2024 with 438 students from six Indonesian
+   regencies, the study used a quantitative, non-experimental design.
+   PLS-SEM analysis revealed that Heutagogical and Cybergogical activities
+   significantly influenced students' performance and effort expectancy,
+   increasing their intention to use AR and VR. Virtual Experience fully
+   mediated the effects of performance expectancy, hedonic motivation,
+   social influence, and price value on students' intentions. However,
+   effort expectancy and facilitating conditions directly impacted
+   behavioral intentions, underscoring the importance of ease of use and
+   support in adopting these technologies. The findings suggest that
+   integrating structured and self-directed learning approaches, providing
+   immersive hands-on opportunities with AR/VR tools, and ensuring ease of
+   use and strong institutional support can enhance technology adoption.
+   These strategies align vocational training with industry demands,
+   preparing students for technologically driven workplaces.
+RI Irfan, Andi Muhammad/HTP-9356-2023; Mahmud, Amiruddin/GQQ-3969-2022; Setialaksana, Wirawan Setialaksana/GZM-4708-2022
+OI Mahmud, Amiruddin/0000-0003-4499-4804; 
+ZS 0
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+TC 0
+Z9 0
+C1 Univ Negeri Makassar, Mech Engn Educ, Makassar, Indonesia
+C1 Univ Negeri Makassar, Civil Engn & Planning Educ, Makassar City,
+   Indonesia
+C1 Univ Negeri Makassar, Informat & Comp Engn Educ, Makassar City,
+   Indonesia
+SN 1360-2357
+EI 1573-7608
+DA 2025-03-11
+UT WOS:001439012200001
+ER
+
+PT J
+AU Al-Maawali, Wafa
+TI AFFORDANCES IN EDUCATIONAL TECHNOLOGY: PERCEPTIONS OF TEACHERS AND
+   STUDENTS IN OMAN
+SO JOURNAL OF INFORMATION TECHNOLOGY EDUCATION-RESEARCH
+VL 19
+BP 931
+EP 952
+DI 10.28945/4662
+DT Article
+PD 2020
+PY 2020
+AB Aim/Purpose This study of affordances in educational technology focuses
+   on how the selfperceptions of teachers influence the creation of
+   educational opportunities and how these are received by learners.
+   Background It is important to explore the affordances offered by
+   teachers, when using educational technology, from the perspective of
+   their students. Within this topic, the interface of the educational
+   technology affordances with the two agents-teachers and students-has
+   often been neglected. Hence, the learning possibilities in educational
+   interactions for the learners cannot be separated from the interactional
+   possibilities created by teachers. The extent to which teachers can
+   create opportunities to address their students' needs, while effectively
+   conveying the value of these opportunities to their students, is likely
+   to impact on how well these affordances for learning and collaboration
+   are utilised.
+   Methodology A survey that includes two questionnaires was used. The
+   questionnaires were circulated to 102 teachers and their 354 adult
+   students in six higher education institutions in Oman. The
+   questionnaires were analysed by SPSS Amos v20 for statistical measures
+   such as mean, standard deviation, and correlation.
+   Contribution The study contributes to the field of e-learning because it
+   demonstrates that the affordances offered by teachers for e-learning
+   have an impact on the possibilities for students to engage. Both
+   affordances were found to be highly correlated statistically. Further,
+   teachers were found to primarily use the lowest level of engagement for
+   online tasks, requiring low levels of cognitive challenge and social
+   involvement from the learner.
+   Findings The results indicate a low to medium level of self-directed
+   learning that significantly correlates with perceptions of teaching
+   possibilities for learning interactions.
+   Recommendations for Practitioners Teachers are encouraged to vary
+   approaches to student engagement in online teaching materials such as
+   enhancement, additional engagement opportunities, and extension so that
+   students are encouraged to use different cognitive abilities and
+   capabilities to engage in social interactions.
+   Impact on Society
+   This study presents a strong recommendation with regards to extending
+   the online affordances towards social interactions of learning beyond
+   the boundary of the classroom.
+   Future Research Further studies on e-heutagogy and affordances of both
+   teachers and students are needed. The effect of teachers created
+   opportunities on students learning actions is an area that grants
+   further investigation.
+RI Al-Maawali, Wafa/; Al-Maawali, Wafa/AAT-2493-2021
+OI Al-Maawali, Wafa/0000-0001-7329-401X; 
+Z8 0
+TC 3
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z9 7
+C1 Univ Technol & Appl Sci, Rustaq, Oman
+C3 Univ Technol & Appl Sci
+SN 1547-9714
+EI 1539-3585
+DA 2021-01-05
+UT WOS:000595156300001
+ER
+
+PT B
+AU Vaughan, Brenda J.
+Z2  
+TI You Belong Here—Why It Matters: A Phenomenological Study of Online
+   Doctoral Faculty and Students
+DT Dissertation/Thesis
+PD Jan 01 2025
+PY 2025
+Z8 0
+TC 0
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+C1 Regent University, School of Education, Virginia, United States
+C3 Regent University
+BN 9798310196698
+UT PQDT:122835261
+ER
+
+PT J
+AU Bali, Maha
+   Caines, Autumm
+TI A call for promoting ownership, equity, and agency in faculty
+   development via connected learning
+SO INTERNATIONAL JOURNAL OF EDUCATIONAL TECHNOLOGY IN HIGHER EDUCATION
+VL 15
+AR 46
+DI 10.1186/s41239-018-0128-8
+DT Article
+PD DEC 20 2018
+PY 2018
+AB For transformation to occur in learning environments and for learners,
+   higher education must first consider how such transformation will occur
+   for the designers and facilitators of learning experiences: the
+   university teachers or educators we call faculty (in the US),
+   instructors, lecturers or professors or, in some instances, university
+   staff. For the purpose of this article, we will refer to them as
+   educators or faculty, and the process of their professional development
+   as educational development or faculty development (more historically
+   common in the US context). We aspire towards universities in the future
+   that cultivate connected, participatory educational development that
+   crosses institutional and national boundaries, and which takes equity,
+   social justice and power differences into consideration, promoting
+   educator agency. We propose theoretical underpinnings of our approach,
+   while also highlighting some examples of recent practice that inspire
+   this direction, but which are small in scale, and can provide
+   springboards for future approaches that may be applied on a wider scale
+   and become more fully integrated, supported and rewarded in
+   institutions. Our theoretical underpinnings are influenced by theories
+   of heutagogy and self-determined learning, transformative learning,
+   connectivist and connected learning, and an interest in equity.We share
+   models of alternative approaches to educator development that take
+   advantage of the latest advances in technology, such as #DigPINS,
+   Virtually Connecting, collaborative annotation, and dual-pathway MOOCs.
+   We then share a semi-fictional authoethnography of our (the authors')
+   daily connected lives, and we end by highlighting elements of the models
+   we shared that we feel could be adapted by institutions to achieve
+   educator professional development that is more transformative,
+   participatory, and equitable.
+RI Caines, Autumm/; Bali, Maha/JXM-1458-2024; Bali, Maha/
+OI Caines, Autumm/0000-0001-9920-8212; Bali, Maha/0000-0002-8142-7262
+Z8 0
+ZR 0
+ZS 1
+TC 22
+ZB 0
+ZA 0
+Z9 31
+C1 Amer Univ Cairo, Virtually Connecting, Cairo, Egypt
+C1 St Norbert Coll, Virtually Connecting, De Pere, WI 54115 USA
+C3 St Norbert Coll
+SN 2365-9440
+DA 2019-01-04
+UT WOS:000453914400001
+ER
+
+PT J
+AU Cochrane, Thomas
+TI Secrets of mlearning failures: confronting reality
+SO RESEARCH IN LEARNING TECHNOLOGY
+VL 20
+BP 123
+EP 134
+AR 19186
+DI 10.3402/rlt.v20i0.19186
+SU 1
+DT Article
+PD 2012
+PY 2012
+AB Having implemented and evaluated over 35 mlearning projects in a variety
+   of contexts in higher education over the past 6 years the researcher is
+   ready to share the untold secret: not all mlearning projects succeed!
+   This article critiques three of the researcher's mlearning projects that
+   can be classed as ''failures'' and compares them to successful projects
+   to draw out critical implications for mlearning project design and
+   implementation to avoid common pitfalls leading to potential project
+   failure. This article uses the researcher's six critical success factors
+   identified across the 35 mlearning projects to evaluate these three
+   projects, and concludes that projects resulting in ''no significant
+   difference'' in pedagogical outcomes are the result of attempts to
+   shoehorn old pedagogies into new technologies. Lecturer professional
+   development and sustained collaborative support are critical to
+   fostering new pedagogies utilising the unique affordances of mobile
+   devices.
+RI Cochrane, Thomas/N-8405-2015
+OI Cochrane, Thomas/0000-0002-0192-6118
+ZR 0
+ZB 0
+ZS 0
+TC 12
+ZA 0
+Z8 0
+Z9 19
+C1 Auckland Univ Teaching, Ctr Teaching & Learning, Auckland, New Zealand
+C3 Auckland Univ Teaching
+SN 2156-7069
+EI 2156-7077
+DA 2012-01-01
+UT WOS:000210141100013
+ER
+
+PT J
+AU George-Reyes, Carlos Enrique
+   Pelaez-Sanchez, Iris Cristina
+   Glasserman-Morales, Leonardo David
+TI Digital Environments of Education 4.0 and complex thinking:
+   Communicative Literacy to close the digital gender gap
+SO JOURNAL OF INTERACTIVE MEDIA IN EDUCATION
+IS 1
+BP 17
+EP 20
+DI 10.5334/jime.833
+DT Article
+PD FEB 15 2024
+PY 2024
+AB The gender digital divide (GDD) is a social phenomenon that denies
+   citizens access to technologies, the internet, and the services
+   associated with Education 4.0. Reducing this gap requires communicative
+   literacy, which allows scaling knowledge, skills, and attitudes to
+   create forms of media expression to interact effectively in virtual
+   environments. Education 4.0 is a modern approach to education that
+   focuses on preparing students to thrive in a digital and technological
+   world. Additionally, Education 4.0 is based on three pedagogical
+   principles, including Cyber pedagogy, Heutagogy, and Peeragogy, which
+   emphasize the use of technology, self -determined learning, and
+   collaboration, respectively. A mixed study was conducted with the
+   participation of 124 Mexican students of technical -professional
+   education. The study's objective was to analyze how they scaled their
+   communicative literacy and complex thinking through a formative
+   experience based on the pedagogical framework of Education 4.0 in
+   digital environments called metaverses to bridge the GDD in Mexico.
+   Quantitative results show only significant differences in systemic
+   thinking (z = -2.113, p = 0.035 < 0.05), where women had a slightly
+   higher mean ( M = 25.36) than men ( M = 25.11). Qualitative results
+   support the finding of women excelling in systemic thinking, as
+   participants expressed comments related to systemic thinking (90%). This
+   suggests that immersive digital environments can effectively enhance
+   communicative literacy and complex thinking. Additionally, they can be
+   spaces where both women and men achieve similar levels of digital
+   literacy.
+RI PELAEZ-SANCHEZ, IRIS CRISTINA/; Pelaez-Sánchez, Iris/JSK-2585-2023; Glasserman-Morales, Leonardo David/L-3139-2016; George-Reyes, Carlos Enrique/O-4607-2017; Glasserman-Morales, Leonardo/L-3139-2016
+OI PELAEZ-SANCHEZ, IRIS CRISTINA/0000-0002-3767-9497; Glasserman-Morales,
+   Leonardo David/0000-0001-7960-9537; George-Reyes, Carlos
+   Enrique/0000-0002-2529-9155; 
+TC 1
+ZS 0
+ZA 0
+ZR 0
+ZB 0
+Z8 0
+Z9 1
+C1 Inst Future Educ, Monterrey, Mexico
+C1 Tecnol Monterrey, Inst Future Educ, Monterrey, Mexico
+C3 Inst Future Educ
+SN 1365-893X
+DA 2024-05-23
+UT WOS:001223276800005
+ER
+
+PT J
+AU Biberman-Shalev, Liat
+   Chamo, Nurit
+TI The Middle Space: On Blogs and Beyond in Blended Learning
+SO EDUCATION SCIENCES
+VL 15
+IS 5
+AR 597
+DI 10.3390/educsci15050597
+DT Article
+PD MAY 12 2025
+PY 2025
+AB As blended learning (BL) is becoming a new normal in the context of
+   higher education, there is a growing need to attune pedagogies to this
+   context. As reflective blogs were found to be supportive of pre-service
+   student teachers' (PSTs') as well as teacher educators' (TEs')
+   professional development, the current study aimed to explore PSTs' and
+   TEs' perceptions regarding the potential of integrating blogs into the
+   BL modality. Applying a qualitative approach, analyses of 528 PSTs' blog
+   posts, transcriptions of two focus groups with 11 PSTs, and 3 TEs'
+   reflections and discussion transcripts yielded four themes that related
+   to both the PSTs' and the TEs' perspectives regarding the integration of
+   blogs into BL: (1) keeping sequential learning, (2) supporting
+   self-directed learning, (3) keeping a sense of a learning community, and
+   (4) increasing motivation and critical thinking. Nevertheless, both the
+   PSTs and TEs described unique roles for blogging in BL. The TEs
+   indicated that blogs support a sense of control, reveal misconceptions,
+   and model teaching, while the PSTs indicated that blogs increase or
+   decrease self-confidence during BL. The implications pertain to the
+   contribution of blogging in BL, as well as to the four pedagogical
+   principles of effective BL design: (a) continuity in learning, (b)
+   fostering autonomous learning, (c) building a learning community, and
+   (d) reflectivity and professional development.
+Z8 0
+ZB 0
+ZS 0
+ZA 0
+TC 0
+ZR 0
+Z9 0
+C1 Levinsky Wingate Acad Coll, Dept Educ, IL-6937808 Tel Aviv, Israel
+C3 Levinsky Wingate Acad Coll
+EI 2227-7102
+DA 2025-06-06
+UT WOS:001495952000001
+ER
+
+PT J
+AU Clark, Karen
+   Hoffman, Ann
+TI Educating Healthcare Students: Strategies to Teach Systems Thinking to
+   Prepare New Healthcare Graduates
+SO JOURNAL OF PROFESSIONAL NURSING
+VL 35
+IS 3
+BP 195
+EP 200
+DI 10.1016/j.profnurs.2018.12.006
+DT Article
+PD MAY-JUN 2019
+PY 2019
+AB Background: Educating undergraduate healthcare students is challenging
+   due to the complexity of the healthcare environment today. Healthcare
+   education systems focus mainly on discipline specific thinking using
+   linear frameworks and reductionist approaches. Education of nurses,
+   pharmacists, physicians, social workers, respiratory therapists takes
+   place in a siloed environment with minimal interprofessional
+   interaction. Yet, organizations expect new graduates to have skills and
+   understanding of collaborative care with knowledge of healthcare systems
+   thinking, IPP, Team STEPPS (R), methods of group dynamics, and a
+   knowledge of Informatics when they enter the workforce.
+   Purpose: The purpose of this article is to 1) discuss and describe
+   challenges in a high-tech complex healthcare environment that
+   necessitate teaching systems thinking to future healthcare students, and
+   2) describe the use of interprofessional education (IPE),
+   interprofessional practice (IPP), Team STEPPS (R), curricular content,
+   and other teaching methods as strategies for teaching systems thinking.
+   Conclusion: Systems thinking in healthcare supports a holistic approach
+   to care, inclusive of high-tech in the complex environment. With the
+   rapid changes it is necessary to modify our teaching theories we use to
+   educate new healthcare providers. Educating and practicing the key
+   concepts/principles of IPE, IPP, and TeamSTEPPS, and group dynamics,
+   along with the important integration of technology, can provide the
+   foundation to develop systems thinking and critical thinking in our
+   complex healthcare environment.
+OI Clark, Karen/0000-0002-2448-499X
+ZB 3
+ZA 1
+Z8 0
+TC 25
+ZR 0
+ZS 0
+Z9 31
+C1 Univ Shady Grove, Univ Maryland, Sch Nursing, 9640 Gudulsky Dr,216A,
+   Rockville, MD 20850 USA
+C1 Univ Shady Grove, Univ Maryland, Sch Nursing, 9640 Gudulsky Dr,304,
+   Rockville, MD 20850 USA
+SN 8755-7223
+EI 1532-8481
+DA 2019-06-25
+UT WOS:000471209200009
+PM 31126396
+ER
+
+PT B
+AU Gaviola Feck, Dolores
+Z2  
+TI Strategic Reflection on the Use of eLearning Freeware Tools in Higher
+   Education
+DT Dissertation/Thesis
+PD Jan 01 2016
+PY 2016
+ZA 0
+ZS 0
+TC 0
+Z8 0
+ZR 0
+ZB 0
+Z9 0
+C1 Northcentral University, School of Education, California, United States
+C3 Northcentral University
+BN 978-1-339-82354-6
+UT PQDT:68805699
+ER
+
+PT B
+AU Hawkins, Donovan M.
+Z2  
+TI Effects of Online Modularized Instruction on the Engagement Levels of
+   Low-achieving High School Seniors Enrolled in Pre-college Algebra
+DT Dissertation/Thesis
+PD Jan 01 2018
+PY 2018
+ZS 0
+ZR 0
+ZA 0
+Z8 0
+TC 0
+ZB 0
+Z9 0
+C1 Morehead State University, College of Education, Kentucky, United States
+C3 Morehead State University
+BN 978-0-438-03193-7
+UT PQDT:68564112
+ER
+
+PT B
+AU Maze, Russell G.
+Z2  
+TI Understanding Non-traditional Online Doctoral Socialization Experiences
+   and the Decision to Persist in the Dissertation Phase
+DT Dissertation/Thesis
+PD Jan 01 2020
+PY 2020
+ZR 0
+ZA 0
+TC 0
+Z8 0
+ZS 0
+ZB 0
+Z9 0
+C1 Grand Canyon University, College of Doctoral Studies, Arizona, United
+   States
+C3 Grand Canyon University
+BN 9781658458580
+UT PQDT:67888309
+ER
+
+PT J
+AU Azid, Nurulwahida
+   Nur, Abdul Hamid Busthami
+   Md-Ali, Ruzlan
+   Isa, Zaharah Che
+   Heong, Yee Mei
+   Kiong, Tee Tze
+TI Curriculum Key-Players' and Industries' Thoughts: The Relevance of
+   Automotive Case-Based Simulation Apps
+SO SAGE OPEN
+VL 14
+IS 3
+AR 21582440241260558
+DI 10.1177/21582440241260558
+DT Article
+PD JUL 2024
+PY 2024
+AB TVET in Malaysia is geared toward providing quality education, training,
+   and resources but it still needs to be strengthened and reformed toward
+   producing a more quality and skilled workforce. This study aimed to
+   procure feedback from TVET curriculum key-players' (automotive) on the
+   integration of automotive case-based simulation (CBS) as TVET future
+   learning strategies. Collective case-study research design was used with
+   purposive sampling design which involved 5 curriculum key-players in
+   vocational college and 16 automotive industries as study respondents. A
+   set of questionnaires and interview protocols were used to gather
+   quantitative and qualitative data. Intra-class correlation coefficient
+   (ICC) was used to obtain an average measure agreement among raters.
+   ATLAS.ti was also used through thematic analysis to produce models. The
+   ICC showed high values of agreement for the process and structure of the
+   CBS. The limitation of this research focused on one program (automotive
+   technology) through the key-players' and industries' perspectives toward
+   the implementation of CBS as a tool to enhance students' soft skills.
+   The collation of both data showed the alignment between both parties
+   against the CBS. The curriculum key-players agreed that CBS fulfilled
+   its requirements as a tool to enrich TVET students' marketability
+   skills, supported by the automotive industries' perspective which
+   believed that using CBS would prepare TVET students' readiness to the
+   workplace. Notably, the CBS provides an opportunity to stimulate
+   thinking and learning preferences among students, in addition to being a
+   learning tool for future TVET learning strategies that connect theory
+   and practice in preparation for job training.
+RI Busthami Nur, Abdul Hamid/M-9248-2017; TEE, TZE/S-6767-2019; Yee, Mei Heong/AAK-7451-2021; nur, abdul hamid busthami/
+OI nur, abdul hamid busthami/0000-0002-7573-8662
+ZA 0
+ZS 0
+TC 0
+ZB 0
+Z8 0
+ZR 0
+Z9 0
+C1 Univ Utara Malaysia, Sintok, Kedah, Malaysia
+C1 Univ Tun Hussein Onn, Batu Pahat, Johor, Malaysia
+SN 2158-2440
+DA 2024-08-09
+UT WOS:001282769700001
+ER
+
+PT B
+AU Karipi, Edwig
+Z2  
+TI The Perception of Faculty Members of Namibian Open Distance Learning
+   Institutions on the Use of Open Educational Resources
+DT Dissertation/Thesis
+PD Jan 01 2020
+PY 2020
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZS 0
+ZA 0
+Z9 0
+C1 University of South Africa (South Africa), Curriculum and Instructional
+   Studies, South Africa
+C3 University of South Africa (South Africa)
+BN 9798283178776
+UT PQDT:124003021
+ER
+
+PT B
+AU Dutka-Chirichetti, Jizela Eloisa
+Z2  
+TI A Phenomenological Study of How Cultural Backgrounds Influence Student
+   Perceptions of Transnational e-Learning Experiences
+DT Dissertation/Thesis
+PD Jan 01 2018
+PY 2018
+ZB 0
+TC 0
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+Z9 0
+C1 Northcentral University, Education, California, United States
+C3 Northcentral University
+BN 978-0-438-10338-2
+UT PQDT:59988973
+ER
+
+PT J
+AU Ibanez-Carrasco, Francisco
+   Worthington, Catherine
+   Rourke, Sean
+   Hastings, Colin
+TI Universities without Walls: A Blended Delivery Approach to Training the
+   Next Generation of HIV Researchers in Canada
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+VL 17
+IS 12
+AR 4265
+DI 10.3390/ijerph17124265
+DT Article
+PD JUN 2020
+PY 2020
+AB (1) Background: Although HIV has not diminished in importance in Canada,
+   the field of HIV research remains small, and the graduate students who
+   decide to pursue careers within it feel isolated and uncertain about
+   their professional skills and opportunities. Universities Without Walls
+   (UWW) was created in 2009 to help redress these shortcomings. This paper
+   presents a case study of UWW, a non-credit training program for emerging
+   HIV researchers in Canada. In particular, we focus on the possibilities
+   of experiential learning via online and blended delivery. UWW uses both
+   online and in-person teaching modalities to teach engaged scholarship,
+   interdisciplinarity, community-based research (CBR), intervention
+   research, and ethics. (2) Methods: Using a case study, we elucidated the
+   research question: "What are the factors that make Universities Without
+   Walls a viable training environment in the contemporary HIV/AIDS field?"
+   Focus groups were conducted with 13 UWW key stakeholders in 2012 during
+   a program mid-point evaluation; in 2014, telephone or in-person
+   interviews with the three directors were conducted by a UWW fellow (the
+   4th author of this paper), and in 2019 the authors analyzed the
+   information and anecdotal evidence, which had been incorporated as thick
+   description. In addition, fellows' self-assessments via portfolio and
+   results from formal learning assessments were included. We also
+   thematically analyzed 65 student self-reports (2009-2015). (3) Results
+   and Discussion: Each UWW cohort lasted 9 months to one year and was
+   comprised of: a) sustained mentorship from the co-directors (e.g., phone
+   conversations, assistance with grant writing, letters of reference,
+   etc.); b) fortnightly online webinars that aim to develop fellows'
+   knowledge of community-based research (CBR), research ethics,
+   intervention research, and interdisciplinary research; c) community
+   service learning in the form of a "field mentoring placement"; d)
+   face-to-face engagement with fellows and mentors, most notably at the
+   week-long culminating learning institute; e) a stipend for fellows to
+   carry out their training activities. The UWW pedagogical framework
+   features experiential learning, critical pedagogy, and heutagogy made
+   manifest in the field mentoring placements (community service learning),
+   mentorship mediated by technologies, and in-person learning institutes.
+   Our analysis showed that experiential learning was imparted by UWW's a)
+   transparency about its "implicit curriculum", the attitudes, values,
+   character, and professional identity imparted in the program as well as
+   the overarching programmatic elements, such as commitment to diversity,
+   the inclusion of those with lived experience, the flexible admissions
+   policies and procedures, interdisciplinary faculty, flexible team,
+   administrative structure, and valuing of technology in conducting
+   research, learning, and teaching; b) curriculum co-designing and
+   co-teaching, and c) sustaining a community of practice. The main results
+   reported in our case study included significant "soft outcomes" for UWW
+   fellows, such as developing a "social presence" as a precursor to
+   lasting professional connections; learning to experience community-based
+   research, intersectionality, and interdisciplinarity by interacting
+   online with persons living with HIV, leaders in the field, and a variety
+   of stakeholders (including nonprofit staff and policymakers).
+   (4) Limitations: While fellows' self-evaluation data were collected by
+   an independent assessor and anonymized to the extent this was possible,
+   the co-authors inevitably bring their preconceptions and positive biases
+   to UWW's assessment. As UWW was developed to function outside of
+   traditional academic structures, it is unlikely that the UWW program
+   could be transferred to a post-secondary environment in its entirety.
+   UWW was also built for the socio-political environment of HIV health
+   research. (5) Conclusions: The experiences of those involved with UWW
+   demonstrate that explicit curricular components-such as
+   interdisciplinarity, community-based research, intervention research,
+   and applied ethics-can be learned through a blended delivery when
+   combined with opportunities to apply the knowledge in ways, such as a
+   field mentoring placement and a learning institute. Related to this
+   outcome, our case study describes that implicit curricular components in
+   the formation of a professional-the sense of self in the field as a
+   researcher, student, and community member-can also be delivered through
+   a blended model. However, the tools and activities need to be tailored
+   to each student for their context, while pushing their disciplinarian
+   and professional boundaries.
+RI Worthington, Catherine/; Worthington, Catherine/D-2986-2013; Ibanez-Carrasco, Francisco/; Ibanez-Carrasco, Francisco/AAY-2773-2021
+OI Worthington, Catherine/0000-0003-3075-8229; Ibanez-Carrasco,
+   Francisco/0000-0002-3667-6411; 
+ZR 0
+ZA 0
+Z8 0
+TC 8
+ZB 0
+ZS 0
+Z9 8
+C1 St Michaels Hosp, MAP Ctr Urban Hlth Solut, Toronto, ON M5B 1W8, Canada
+C1 Univ Victoria, Publ Hlth & Social Policy, Victoria, BC V8W 2Y2, Canada
+C1 Li Ka Shing Knowledge Inst St Michaels, Toronto, ON M5B 1W8, Canada
+C1 York Univ, Dept Sociol, Toronto, ON M3J 1P3, Canada
+C3 Li Ka Shing Knowledge Inst St Michaels
+EI 1660-4601
+DA 2020-07-29
+UT WOS:000549371500001
+PM 32549263
+ER
+
+EF
